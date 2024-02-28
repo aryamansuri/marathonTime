@@ -1,4 +1,4 @@
-# Starter folder
+# MarathonTime
 
 ## Overview
 
